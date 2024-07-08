@@ -1,0 +1,55 @@
+.container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.container-label{
+    display: flex;
+    justify-content: center;
+    color:#2b7804;
+     font-weight: 700;
+}
+
+.container-Quan{
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+
+
+}
+
+.Quan-container-label{
+    margin: 10px 10px 10px 10px;
+   display: flex;
+   justify-content: center;
+    color: white;
+}
+#add-Item
+{
+    background-color: 
+    #8dc73f;
+    margin-left: 10px;
+    border-radius: 7px 7px;
+    margin: 30px 15px
+}
+#Large{
+    width: 40px;
+    margin-left: 20px;
+    
+}
+#Medium{
+    width: 40px;
+    margin-left: 20px;
+    
+
+}
+#Small{
+    width: 40px;
+    height: 18px;
+    margin-top: 20px;
+    
+
+}

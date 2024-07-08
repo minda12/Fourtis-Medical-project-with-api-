@@ -1,0 +1,40 @@
+.cart{
+    display: flex;
+    justify-content: end; 
+    margin-top: -75px;
+    margin-right: 50px;
+    /* background-color: aqua; */
+
+}
+IMG{
+    margin-top:  -25px;
+    width: 50px;
+}
+#Cart-item{
+    margin: 6px 7px -5px 12px;
+    display: flex;
+    justify-content: center;
+    color: rgb(230, 227, 227);
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.button{
+    border: none;
+    background: scroll;
+    cursor: pointer;
+    background-color: #2b7804;
+
+}
+
+.button:hover{
+    background-color: #899b81;
+    color: #ffffff;
+    border-radius: 10px;
+
+    
+}
+
+ 
